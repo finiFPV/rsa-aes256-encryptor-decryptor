@@ -1,4 +1,4 @@
-# fini rsa-aes25 encryptor/decryptor
+# fini rsa-aes256 encryptor/decryptor
 
 ## Description:
 
