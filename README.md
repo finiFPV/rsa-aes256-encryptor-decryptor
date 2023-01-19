@@ -18,7 +18,7 @@ Simple program built in nodejs that encrypts/decrypts any size text and  in the
 - wait for the user too continue not just go back after 5000ms
 - File compatibility
 
-### Other
+### Other:
 
 - Function to share pubkey
 - Contact library with search. User (name, pubkey, comments)
